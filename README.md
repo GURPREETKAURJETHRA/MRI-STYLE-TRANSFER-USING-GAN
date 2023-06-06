@@ -111,6 +111,5 @@ Below is the animated picture of the training process. The Predicted image is pl
 
 
 ## Result of MRI Style Transfer Using GAN (T1 to T2 <-> T2 to T1)
-
 ![MRI_Style_Transfer_cycleGAN_100_epochs](https://github.com/GURPREETKAURJETHRA/MRI-STYLE-TRANSFER-USING-GAN/blob/462911bd9c0e25f20d384f9225f81e2cec3fa4ec/DSC43_animated_cycleGAN_100_epochs.gif)
 
